@@ -8,6 +8,8 @@ namespace CA200922_GH1
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Juhász Zoltán");
+
+            Console.WriteLine("még egy sor");
             Console.ReadKey();
         }
     }
